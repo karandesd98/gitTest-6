@@ -17,4 +17,10 @@ public class homeController {
 	{
 	System.out.println("welcome to spring boot app whit git hub repository ");	
 	}
+	
+	@GetMapping("/pratikService")
+	public void pratikService()
+	{
+	System.out.println("welcome to software development pratik");	
+	}
 }
