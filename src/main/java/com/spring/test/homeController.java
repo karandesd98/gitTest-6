@@ -23,4 +23,13 @@ public class homeController {
 	{
 	System.out.println("welcome to software development pratik");	
 	}
+	
+	
+	@GetMapping("/pratikService1")
+	public void pratikService1()
+	{
+	System.out.println("welcome to software development pratik");	
+	}
+	
+	
 }
