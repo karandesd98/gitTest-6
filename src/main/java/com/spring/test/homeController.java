@@ -25,7 +25,7 @@ public class homeController {
 	}
 	
 	
-	@GetMapping("/pratikService1")
+	@GetMapping("/pratikService2")
 	public void pratikService1()
 	{
 	System.out.println("welcome to software development pratik");	
